@@ -1,7 +1,0 @@
-*.iyu linguist-language=iyuv3
-*.myu linguist-language=iyuv3
-*.mjava linguist-language=ijava
-*.mlua linguist-language=ilua
-*.java linguist-language=java
-*.json linguist-language=json
-*.html linguist-language=html
